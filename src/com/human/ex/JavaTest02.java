@@ -12,6 +12,7 @@ public class JavaTest02 {
 					true
 					)
 			;
+		//test
 ////		Sys
 //		tem.out.println(true);
 	}
