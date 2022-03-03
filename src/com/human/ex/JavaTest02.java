@@ -5,7 +5,7 @@ public class JavaTest02 {
 
 	public static void main(String[] args) {
 		// . 괄호 = , 에서 줄을 변경하여 사용할 수 있다.
-		System.
+		System.fdf
 			out.
 			println
 			(
